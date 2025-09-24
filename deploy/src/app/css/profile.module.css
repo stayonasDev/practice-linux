@@ -1,0 +1,27 @@
+.card{
+    width: 160vh;
+    height: 55vh;
+    display: grid;
+    grid-template-columns: 1fr 2.2fr;
+    /* grid-template-columns: 60% 20%; */
+    /* grid-template-rows: 1fr; */
+    gap: 0px;
+    justify-self: center;
+    align-self: center;
+    position: absolute;
+    left: 20vh;
+    top: 12vh;
+    border: 1px solid black;
+}
+
+.myIntro{
+    width: 105vh;
+    height: 20vh;
+    font-size: 3vh;
+    padding-top: 8vh;
+}
+
+.intro-item{
+    width: 40vh;
+    height: 15vh;
+}
