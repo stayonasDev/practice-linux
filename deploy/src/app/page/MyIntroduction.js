@@ -36,7 +36,7 @@ export default async function MyIntroduction() {
       <Image
         src="/영지&유진.jpg"
         alt="Vercel logomark"
-        width={320}
+        width={305}
         height={300}
       />
       <div>
