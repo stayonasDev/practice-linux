@@ -1,4 +1,3 @@
-import Image from "next/image";
 import MyIntroduction from "./page/MyIntroduction";
 import styles from './css/container.module.css';
 
